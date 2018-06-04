@@ -2,6 +2,8 @@
 
 exports.__esModule = true;
 
+var fetch = require('node-fetch');
+
 var _UserAgent = require('./UserAgent');
 
 var _UserAgent2 = _interopRequireDefault(_UserAgent);
